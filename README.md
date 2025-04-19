@@ -28,7 +28,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 ### Step-by-Step Project Plan
 
-1. Data Collection and Exploration
+#### 1. Data Collection and Exploration
 
 - Obtain the Airbnb dataset for the required locations.
 
@@ -38,7 +38,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 - Perform exploratory data analysis (EDA) to understand key features.
 
-2. Data Cleaning and Preprocessing
+#### 2. Data Cleaning and Preprocessing
 
 - Handle missing values appropriately (imputation, removal, etc.).
 
@@ -48,7 +48,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 - Perform necessary feature engineering (e.g., creating new variables from existing ones).
 
-3. Data Analysis and Visualization
+#### 3. Data Analysis and Visualization
 
 - Analyze trends in pricing, occupancy rates, and demand.
 
@@ -58,7 +58,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 - Compare different locations and property types.
 
-4. Dashboard Development
+#### 4. Dashboard Development
 
 - Choose a visualization tool (Power BI, Tableau, etc.).
 
@@ -68,7 +68,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 - Ensure data updates and dashboard interactivity.
 
-5. Interpretation and Insights
+#### 5. Interpretation and Insights
 
 - Summarize key findings and trends.
 
@@ -76,7 +76,7 @@ This project aims to analyze Airbnb data to develop insightful dashboards that v
 
 - Validate insights with statistical tests where applicable.
 
-6. Final Report and Presentation
+#### 6. Final Report and Presentation
 
 - Compile findings into a structured report.
 
